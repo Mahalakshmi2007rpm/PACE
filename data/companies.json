@@ -1,0 +1,122 @@
+[
+  {
+    "name": "PACE Logistics 1",
+    "industry": "Retail Logistics",
+    "city": "Hyderabad",
+    "contact_email": "ops1@pacelogistics1.com"
+  },
+  {
+    "name": "PACE Logistics 2",
+    "industry": "Freight",
+    "city": "Mumbai",
+    "contact_email": "ops2@pacelogistics2.com"
+  },
+  {
+    "name": "PACE Logistics 3",
+    "industry": "Freight",
+    "city": "Kochi",
+    "contact_email": "ops3@pacelogistics3.com"
+  },
+  {
+    "name": "PACE Logistics 4",
+    "industry": "Freight",
+    "city": "Coimbatore",
+    "contact_email": "ops4@pacelogistics4.com"
+  },
+  {
+    "name": "PACE Logistics 5",
+    "industry": "Construction",
+    "city": "Nagpur",
+    "contact_email": "ops5@pacelogistics5.com"
+  },
+  {
+    "name": "PACE Logistics 6",
+    "industry": "Freight",
+    "city": "Kolkata",
+    "contact_email": "ops6@pacelogistics6.com"
+  },
+  {
+    "name": "PACE Logistics 7",
+    "industry": "Freight",
+    "city": "Kolkata",
+    "contact_email": "ops7@pacelogistics7.com"
+  },
+  {
+    "name": "PACE Logistics 8",
+    "industry": "Oil & Gas",
+    "city": "Hyderabad",
+    "contact_email": "ops8@pacelogistics8.com"
+  },
+  {
+    "name": "PACE Logistics 9",
+    "industry": "Freight",
+    "city": "Mumbai",
+    "contact_email": "ops9@pacelogistics9.com"
+  },
+  {
+    "name": "PACE Logistics 10",
+    "industry": "Construction",
+    "city": "Surat",
+    "contact_email": "ops10@pacelogistics10.com"
+  },
+  {
+    "name": "PACE Logistics 11",
+    "industry": "Construction",
+    "city": "Pune",
+    "contact_email": "ops11@pacelogistics11.com"
+  },
+  {
+    "name": "PACE Logistics 12",
+    "industry": "Cold Chain",
+    "city": "Pune",
+    "contact_email": "ops12@pacelogistics12.com"
+  },
+  {
+    "name": "PACE Logistics 13",
+    "industry": "Retail Logistics",
+    "city": "Hyderabad",
+    "contact_email": "ops13@pacelogistics13.com"
+  },
+  {
+    "name": "PACE Logistics 14",
+    "industry": "Cold Chain",
+    "city": "Mumbai",
+    "contact_email": "ops14@pacelogistics14.com"
+  },
+  {
+    "name": "PACE Logistics 15",
+    "industry": "Oil & Gas",
+    "city": "Kolkata",
+    "contact_email": "ops15@pacelogistics15.com"
+  },
+  {
+    "name": "PACE Logistics 16",
+    "industry": "Freight",
+    "city": "Surat",
+    "contact_email": "ops16@pacelogistics16.com"
+  },
+  {
+    "name": "PACE Logistics 17",
+    "industry": "Retail Logistics",
+    "city": "Kochi",
+    "contact_email": "ops17@pacelogistics17.com"
+  },
+  {
+    "name": "PACE Logistics 18",
+    "industry": "Construction",
+    "city": "Nagpur",
+    "contact_email": "ops18@pacelogistics18.com"
+  },
+  {
+    "name": "PACE Logistics 19",
+    "industry": "Cold Chain",
+    "city": "Kochi",
+    "contact_email": "ops19@pacelogistics19.com"
+  },
+  {
+    "name": "PACE Logistics 20",
+    "industry": "Cold Chain",
+    "city": "Chennai",
+    "contact_email": "ops20@pacelogistics20.com"
+  }
+]

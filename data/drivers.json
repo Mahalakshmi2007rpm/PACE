@@ -1,0 +1,402 @@
+[
+  {
+    "company_id": 1,
+    "full_name": "Driver 1",
+    "phone": "+917206388706",
+    "license_number": "DL-5404320-1",
+    "assigned_truck_id": 74,
+    "is_available": true
+  },
+  {
+    "company_id": 5,
+    "full_name": "Driver 2",
+    "phone": "+916169094743",
+    "license_number": "DL-6940916-2",
+    "assigned_truck_id": 13,
+    "is_available": true
+  },
+  {
+    "company_id": 6,
+    "full_name": "Driver 3",
+    "phone": "+917738794303",
+    "license_number": "DL-6335424-3",
+    "assigned_truck_id": 36,
+    "is_available": false
+  },
+  {
+    "company_id": 17,
+    "full_name": "Driver 4",
+    "phone": "+916744404100",
+    "license_number": "DL-8594697-4",
+    "assigned_truck_id": 57,
+    "is_available": true
+  },
+  {
+    "company_id": 5,
+    "full_name": "Driver 5",
+    "phone": "+917504323119",
+    "license_number": "DL-6643870-5",
+    "assigned_truck_id": 15,
+    "is_available": false
+  },
+  {
+    "company_id": 9,
+    "full_name": "Driver 6",
+    "phone": "+917120041717",
+    "license_number": "DL-5218483-6",
+    "assigned_truck_id": 10,
+    "is_available": false
+  },
+  {
+    "company_id": 16,
+    "full_name": "Driver 7",
+    "phone": "+919661176152",
+    "license_number": "DL-2398691-7",
+    "assigned_truck_id": 96,
+    "is_available": false
+  },
+  {
+    "company_id": 5,
+    "full_name": "Driver 8",
+    "phone": "+919615694115",
+    "license_number": "DL-9533626-8",
+    "assigned_truck_id": 75,
+    "is_available": false
+  },
+  {
+    "company_id": 19,
+    "full_name": "Driver 9",
+    "phone": "+918042457822",
+    "license_number": "DL-5827886-9",
+    "assigned_truck_id": 38,
+    "is_available": false
+  },
+  {
+    "company_id": 9,
+    "full_name": "Driver 10",
+    "phone": "+918944057740",
+    "license_number": "DL-4103460-10",
+    "assigned_truck_id": 37,
+    "is_available": false
+  },
+  {
+    "company_id": 2,
+    "full_name": "Driver 11",
+    "phone": "+917325590264",
+    "license_number": "DL-3216813-11",
+    "assigned_truck_id": 100,
+    "is_available": false
+  },
+  {
+    "company_id": 6,
+    "full_name": "Driver 12",
+    "phone": "+919759776945",
+    "license_number": "DL-7497743-12",
+    "assigned_truck_id": 66,
+    "is_available": true
+  },
+  {
+    "company_id": 11,
+    "full_name": "Driver 13",
+    "phone": "+916783671755",
+    "license_number": "DL-8513293-13",
+    "assigned_truck_id": 9,
+    "is_available": false
+  },
+  {
+    "company_id": 14,
+    "full_name": "Driver 14",
+    "phone": "+916522551619",
+    "license_number": "DL-2249668-14",
+    "assigned_truck_id": 47,
+    "is_available": true
+  },
+  {
+    "company_id": 17,
+    "full_name": "Driver 15",
+    "phone": "+916686361372",
+    "license_number": "DL-4086429-15",
+    "assigned_truck_id": 37,
+    "is_available": false
+  },
+  {
+    "company_id": 5,
+    "full_name": "Driver 16",
+    "phone": "+917921302682",
+    "license_number": "DL-2036036-16",
+    "assigned_truck_id": 74,
+    "is_available": true
+  },
+  {
+    "company_id": 1,
+    "full_name": "Driver 17",
+    "phone": "+917440577607",
+    "license_number": "DL-1953089-17",
+    "assigned_truck_id": 86,
+    "is_available": false
+  },
+  {
+    "company_id": 15,
+    "full_name": "Driver 18",
+    "phone": "+916988088910",
+    "license_number": "DL-3799909-18",
+    "assigned_truck_id": 3,
+    "is_available": false
+  },
+  {
+    "company_id": 9,
+    "full_name": "Driver 19",
+    "phone": "+917109416192",
+    "license_number": "DL-2599792-19",
+    "assigned_truck_id": 48,
+    "is_available": true
+  },
+  {
+    "company_id": 8,
+    "full_name": "Driver 20",
+    "phone": "+919343556084",
+    "license_number": "DL-4332158-20",
+    "assigned_truck_id": 34,
+    "is_available": false
+  },
+  {
+    "company_id": 2,
+    "full_name": "Driver 21",
+    "phone": "+917236402557",
+    "license_number": "DL-4662070-21",
+    "assigned_truck_id": 82,
+    "is_available": false
+  },
+  {
+    "company_id": 13,
+    "full_name": "Driver 22",
+    "phone": "+919422476182",
+    "license_number": "DL-2609851-22",
+    "assigned_truck_id": 28,
+    "is_available": false
+  },
+  {
+    "company_id": 14,
+    "full_name": "Driver 23",
+    "phone": "+918486409528",
+    "license_number": "DL-4464271-23",
+    "assigned_truck_id": 93,
+    "is_available": false
+  },
+  {
+    "company_id": 2,
+    "full_name": "Driver 24",
+    "phone": "+916772015132",
+    "license_number": "DL-1267217-24",
+    "assigned_truck_id": 52,
+    "is_available": false
+  },
+  {
+    "company_id": 18,
+    "full_name": "Driver 25",
+    "phone": "+916384954195",
+    "license_number": "DL-3771501-25",
+    "assigned_truck_id": 22,
+    "is_available": false
+  },
+  {
+    "company_id": 17,
+    "full_name": "Driver 26",
+    "phone": "+916952702091",
+    "license_number": "DL-5089257-26",
+    "assigned_truck_id": 41,
+    "is_available": true
+  },
+  {
+    "company_id": 16,
+    "full_name": "Driver 27",
+    "phone": "+917710848534",
+    "license_number": "DL-9310838-27",
+    "assigned_truck_id": 24,
+    "is_available": true
+  },
+  {
+    "company_id": 10,
+    "full_name": "Driver 28",
+    "phone": "+918281950696",
+    "license_number": "DL-6717649-28",
+    "assigned_truck_id": 27,
+    "is_available": false
+  },
+  {
+    "company_id": 12,
+    "full_name": "Driver 29",
+    "phone": "+918210976149",
+    "license_number": "DL-8644889-29",
+    "assigned_truck_id": 24,
+    "is_available": false
+  },
+  {
+    "company_id": 19,
+    "full_name": "Driver 30",
+    "phone": "+919212019536",
+    "license_number": "DL-4871243-30",
+    "assigned_truck_id": 32,
+    "is_available": false
+  },
+  {
+    "company_id": 16,
+    "full_name": "Driver 31",
+    "phone": "+918081979524",
+    "license_number": "DL-1290410-31",
+    "assigned_truck_id": 38,
+    "is_available": true
+  },
+  {
+    "company_id": 5,
+    "full_name": "Driver 32",
+    "phone": "+916768902369",
+    "license_number": "DL-4793449-32",
+    "assigned_truck_id": 18,
+    "is_available": false
+  },
+  {
+    "company_id": 11,
+    "full_name": "Driver 33",
+    "phone": "+916923705541",
+    "license_number": "DL-6103148-33",
+    "assigned_truck_id": 66,
+    "is_available": false
+  },
+  {
+    "company_id": 15,
+    "full_name": "Driver 34",
+    "phone": "+917044519735",
+    "license_number": "DL-7682450-34",
+    "assigned_truck_id": 14,
+    "is_available": false
+  },
+  {
+    "company_id": 17,
+    "full_name": "Driver 35",
+    "phone": "+917874304730",
+    "license_number": "DL-4381342-35",
+    "assigned_truck_id": 91,
+    "is_available": true
+  },
+  {
+    "company_id": 13,
+    "full_name": "Driver 36",
+    "phone": "+918922998232",
+    "license_number": "DL-8548234-36",
+    "assigned_truck_id": 88,
+    "is_available": false
+  },
+  {
+    "company_id": 18,
+    "full_name": "Driver 37",
+    "phone": "+916780224005",
+    "license_number": "DL-7914817-37",
+    "assigned_truck_id": 89,
+    "is_available": false
+  },
+  {
+    "company_id": 11,
+    "full_name": "Driver 38",
+    "phone": "+916666817706",
+    "license_number": "DL-9296788-38",
+    "assigned_truck_id": 66,
+    "is_available": false
+  },
+  {
+    "company_id": 10,
+    "full_name": "Driver 39",
+    "phone": "+916815191980",
+    "license_number": "DL-6760197-39",
+    "assigned_truck_id": 47,
+    "is_available": false
+  },
+  {
+    "company_id": 12,
+    "full_name": "Driver 40",
+    "phone": "+919719179996",
+    "license_number": "DL-9282931-40",
+    "assigned_truck_id": 12,
+    "is_available": false
+  },
+  {
+    "company_id": 10,
+    "full_name": "Driver 41",
+    "phone": "+916104431449",
+    "license_number": "DL-6258985-41",
+    "assigned_truck_id": 84,
+    "is_available": false
+  },
+  {
+    "company_id": 1,
+    "full_name": "Driver 42",
+    "phone": "+918948059894",
+    "license_number": "DL-3546678-42",
+    "assigned_truck_id": 93,
+    "is_available": true
+  },
+  {
+    "company_id": 15,
+    "full_name": "Driver 43",
+    "phone": "+916916884506",
+    "license_number": "DL-7589174-43",
+    "assigned_truck_id": 46,
+    "is_available": true
+  },
+  {
+    "company_id": 6,
+    "full_name": "Driver 44",
+    "phone": "+916274698558",
+    "license_number": "DL-8392508-44",
+    "assigned_truck_id": 60,
+    "is_available": true
+  },
+  {
+    "company_id": 19,
+    "full_name": "Driver 45",
+    "phone": "+916867351564",
+    "license_number": "DL-6973479-45",
+    "assigned_truck_id": 52,
+    "is_available": false
+  },
+  {
+    "company_id": 19,
+    "full_name": "Driver 46",
+    "phone": "+918763728408",
+    "license_number": "DL-3146376-46",
+    "assigned_truck_id": 61,
+    "is_available": true
+  },
+  {
+    "company_id": 11,
+    "full_name": "Driver 47",
+    "phone": "+916959810303",
+    "license_number": "DL-5947059-47",
+    "assigned_truck_id": 48,
+    "is_available": false
+  },
+  {
+    "company_id": 17,
+    "full_name": "Driver 48",
+    "phone": "+917919569915",
+    "license_number": "DL-3909847-48",
+    "assigned_truck_id": 91,
+    "is_available": false
+  },
+  {
+    "company_id": 12,
+    "full_name": "Driver 49",
+    "phone": "+917235954185",
+    "license_number": "DL-1709405-49",
+    "assigned_truck_id": 10,
+    "is_available": false
+  },
+  {
+    "company_id": 5,
+    "full_name": "Driver 50",
+    "phone": "+917126745064",
+    "license_number": "DL-9172526-50",
+    "assigned_truck_id": 42,
+    "is_available": false
+  }
+]

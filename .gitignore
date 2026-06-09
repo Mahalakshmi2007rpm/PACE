@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.sqlite3
+pace.db
+node_modules/
+.next/
+dist/
+build/
+coverage/
+.DS_Store

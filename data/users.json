@@ -1,0 +1,602 @@
+[
+  {
+    "email": "user1@pace.local",
+    "password": "password123",
+    "full_name": "User 1",
+    "role": "admin"
+  },
+  {
+    "email": "user2@pace.local",
+    "password": "password123",
+    "full_name": "User 2",
+    "role": "admin"
+  },
+  {
+    "email": "user3@pace.local",
+    "password": "password123",
+    "full_name": "User 3",
+    "role": "user"
+  },
+  {
+    "email": "user4@pace.local",
+    "password": "password123",
+    "full_name": "User 4",
+    "role": "user"
+  },
+  {
+    "email": "user5@pace.local",
+    "password": "password123",
+    "full_name": "User 5",
+    "role": "admin"
+  },
+  {
+    "email": "user6@pace.local",
+    "password": "password123",
+    "full_name": "User 6",
+    "role": "admin"
+  },
+  {
+    "email": "user7@pace.local",
+    "password": "password123",
+    "full_name": "User 7",
+    "role": "user"
+  },
+  {
+    "email": "user8@pace.local",
+    "password": "password123",
+    "full_name": "User 8",
+    "role": "logistics_company"
+  },
+  {
+    "email": "user9@pace.local",
+    "password": "password123",
+    "full_name": "User 9",
+    "role": "logistics_company"
+  },
+  {
+    "email": "user10@pace.local",
+    "password": "password123",
+    "full_name": "User 10",
+    "role": "user"
+  },
+  {
+    "email": "user11@pace.local",
+    "password": "password123",
+    "full_name": "User 11",
+    "role": "user"
+  },
+  {
+    "email": "user12@pace.local",
+    "password": "password123",
+    "full_name": "User 12",
+    "role": "logistics_company"
+  },
+  {
+    "email": "user13@pace.local",
+    "password": "password123",
+    "full_name": "User 13",
+    "role": "user"
+  },
+  {
+    "email": "user14@pace.local",
+    "password": "password123",
+    "full_name": "User 14",
+    "role": "user"
+  },
+  {
+    "email": "user15@pace.local",
+    "password": "password123",
+    "full_name": "User 15",
+    "role": "logistics_company"
+  },
+  {
+    "email": "user16@pace.local",
+    "password": "password123",
+    "full_name": "User 16",
+    "role": "logistics_company"
+  },
+  {
+    "email": "user17@pace.local",
+    "password": "password123",
+    "full_name": "User 17",
+    "role": "admin"
+  },
+  {
+    "email": "user18@pace.local",
+    "password": "password123",
+    "full_name": "User 18",
+    "role": "user"
+  },
+  {
+    "email": "user19@pace.local",
+    "password": "password123",
+    "full_name": "User 19",
+    "role": "logistics_company"
+  },
+  {
+    "email": "user20@pace.local",
+    "password": "password123",
+    "full_name": "User 20",
+    "role": "user"
+  },
+  {
+    "email": "user21@pace.local",
+    "password": "password123",
+    "full_name": "User 21",
+    "role": "admin"
+  },
+  {
+    "email": "user22@pace.local",
+    "password": "password123",
+    "full_name": "User 22",
+    "role": "admin"
+  },
+  {
+    "email": "user23@pace.local",
+    "password": "password123",
+    "full_name": "User 23",
+    "role": "user"
+  },
+  {
+    "email": "user24@pace.local",
+    "password": "password123",
+    "full_name": "User 24",
+    "role": "admin"
+  },
+  {
+    "email": "user25@pace.local",
+    "password": "password123",
+    "full_name": "User 25",
+    "role": "user"
+  },
+  {
+    "email": "user26@pace.local",
+    "password": "password123",
+    "full_name": "User 26",
+    "role": "admin"
+  },
+  {
+    "email": "user27@pace.local",
+    "password": "password123",
+    "full_name": "User 27",
+    "role": "logistics_company"
+  },
+  {
+    "email": "user28@pace.local",
+    "password": "password123",
+    "full_name": "User 28",
+    "role": "logistics_company"
+  },
+  {
+    "email": "user29@pace.local",
+    "password": "password123",
+    "full_name": "User 29",
+    "role": "admin"
+  },
+  {
+    "email": "user30@pace.local",
+    "password": "password123",
+    "full_name": "User 30",
+    "role": "admin"
+  },
+  {
+    "email": "user31@pace.local",
+    "password": "password123",
+    "full_name": "User 31",
+    "role": "user"
+  },
+  {
+    "email": "user32@pace.local",
+    "password": "password123",
+    "full_name": "User 32",
+    "role": "logistics_company"
+  },
+  {
+    "email": "user33@pace.local",
+    "password": "password123",
+    "full_name": "User 33",
+    "role": "user"
+  },
+  {
+    "email": "user34@pace.local",
+    "password": "password123",
+    "full_name": "User 34",
+    "role": "admin"
+  },
+  {
+    "email": "user35@pace.local",
+    "password": "password123",
+    "full_name": "User 35",
+    "role": "admin"
+  },
+  {
+    "email": "user36@pace.local",
+    "password": "password123",
+    "full_name": "User 36",
+    "role": "admin"
+  },
+  {
+    "email": "user37@pace.local",
+    "password": "password123",
+    "full_name": "User 37",
+    "role": "user"
+  },
+  {
+    "email": "user38@pace.local",
+    "password": "password123",
+    "full_name": "User 38",
+    "role": "admin"
+  },
+  {
+    "email": "user39@pace.local",
+    "password": "password123",
+    "full_name": "User 39",
+    "role": "admin"
+  },
+  {
+    "email": "user40@pace.local",
+    "password": "password123",
+    "full_name": "User 40",
+    "role": "admin"
+  },
+  {
+    "email": "user41@pace.local",
+    "password": "password123",
+    "full_name": "User 41",
+    "role": "logistics_company"
+  },
+  {
+    "email": "user42@pace.local",
+    "password": "password123",
+    "full_name": "User 42",
+    "role": "logistics_company"
+  },
+  {
+    "email": "user43@pace.local",
+    "password": "password123",
+    "full_name": "User 43",
+    "role": "user"
+  },
+  {
+    "email": "user44@pace.local",
+    "password": "password123",
+    "full_name": "User 44",
+    "role": "admin"
+  },
+  {
+    "email": "user45@pace.local",
+    "password": "password123",
+    "full_name": "User 45",
+    "role": "user"
+  },
+  {
+    "email": "user46@pace.local",
+    "password": "password123",
+    "full_name": "User 46",
+    "role": "user"
+  },
+  {
+    "email": "user47@pace.local",
+    "password": "password123",
+    "full_name": "User 47",
+    "role": "user"
+  },
+  {
+    "email": "user48@pace.local",
+    "password": "password123",
+    "full_name": "User 48",
+    "role": "user"
+  },
+  {
+    "email": "user49@pace.local",
+    "password": "password123",
+    "full_name": "User 49",
+    "role": "admin"
+  },
+  {
+    "email": "user50@pace.local",
+    "password": "password123",
+    "full_name": "User 50",
+    "role": "logistics_company"
+  },
+  {
+    "email": "user51@pace.local",
+    "password": "password123",
+    "full_name": "User 51",
+    "role": "user"
+  },
+  {
+    "email": "user52@pace.local",
+    "password": "password123",
+    "full_name": "User 52",
+    "role": "admin"
+  },
+  {
+    "email": "user53@pace.local",
+    "password": "password123",
+    "full_name": "User 53",
+    "role": "user"
+  },
+  {
+    "email": "user54@pace.local",
+    "password": "password123",
+    "full_name": "User 54",
+    "role": "logistics_company"
+  },
+  {
+    "email": "user55@pace.local",
+    "password": "password123",
+    "full_name": "User 55",
+    "role": "admin"
+  },
+  {
+    "email": "user56@pace.local",
+    "password": "password123",
+    "full_name": "User 56",
+    "role": "user"
+  },
+  {
+    "email": "user57@pace.local",
+    "password": "password123",
+    "full_name": "User 57",
+    "role": "admin"
+  },
+  {
+    "email": "user58@pace.local",
+    "password": "password123",
+    "full_name": "User 58",
+    "role": "admin"
+  },
+  {
+    "email": "user59@pace.local",
+    "password": "password123",
+    "full_name": "User 59",
+    "role": "admin"
+  },
+  {
+    "email": "user60@pace.local",
+    "password": "password123",
+    "full_name": "User 60",
+    "role": "admin"
+  },
+  {
+    "email": "user61@pace.local",
+    "password": "password123",
+    "full_name": "User 61",
+    "role": "logistics_company"
+  },
+  {
+    "email": "user62@pace.local",
+    "password": "password123",
+    "full_name": "User 62",
+    "role": "user"
+  },
+  {
+    "email": "user63@pace.local",
+    "password": "password123",
+    "full_name": "User 63",
+    "role": "admin"
+  },
+  {
+    "email": "user64@pace.local",
+    "password": "password123",
+    "full_name": "User 64",
+    "role": "logistics_company"
+  },
+  {
+    "email": "user65@pace.local",
+    "password": "password123",
+    "full_name": "User 65",
+    "role": "admin"
+  },
+  {
+    "email": "user66@pace.local",
+    "password": "password123",
+    "full_name": "User 66",
+    "role": "logistics_company"
+  },
+  {
+    "email": "user67@pace.local",
+    "password": "password123",
+    "full_name": "User 67",
+    "role": "user"
+  },
+  {
+    "email": "user68@pace.local",
+    "password": "password123",
+    "full_name": "User 68",
+    "role": "logistics_company"
+  },
+  {
+    "email": "user69@pace.local",
+    "password": "password123",
+    "full_name": "User 69",
+    "role": "admin"
+  },
+  {
+    "email": "user70@pace.local",
+    "password": "password123",
+    "full_name": "User 70",
+    "role": "admin"
+  },
+  {
+    "email": "user71@pace.local",
+    "password": "password123",
+    "full_name": "User 71",
+    "role": "user"
+  },
+  {
+    "email": "user72@pace.local",
+    "password": "password123",
+    "full_name": "User 72",
+    "role": "logistics_company"
+  },
+  {
+    "email": "user73@pace.local",
+    "password": "password123",
+    "full_name": "User 73",
+    "role": "user"
+  },
+  {
+    "email": "user74@pace.local",
+    "password": "password123",
+    "full_name": "User 74",
+    "role": "user"
+  },
+  {
+    "email": "user75@pace.local",
+    "password": "password123",
+    "full_name": "User 75",
+    "role": "admin"
+  },
+  {
+    "email": "user76@pace.local",
+    "password": "password123",
+    "full_name": "User 76",
+    "role": "admin"
+  },
+  {
+    "email": "user77@pace.local",
+    "password": "password123",
+    "full_name": "User 77",
+    "role": "logistics_company"
+  },
+  {
+    "email": "user78@pace.local",
+    "password": "password123",
+    "full_name": "User 78",
+    "role": "user"
+  },
+  {
+    "email": "user79@pace.local",
+    "password": "password123",
+    "full_name": "User 79",
+    "role": "logistics_company"
+  },
+  {
+    "email": "user80@pace.local",
+    "password": "password123",
+    "full_name": "User 80",
+    "role": "admin"
+  },
+  {
+    "email": "user81@pace.local",
+    "password": "password123",
+    "full_name": "User 81",
+    "role": "logistics_company"
+  },
+  {
+    "email": "user82@pace.local",
+    "password": "password123",
+    "full_name": "User 82",
+    "role": "logistics_company"
+  },
+  {
+    "email": "user83@pace.local",
+    "password": "password123",
+    "full_name": "User 83",
+    "role": "user"
+  },
+  {
+    "email": "user84@pace.local",
+    "password": "password123",
+    "full_name": "User 84",
+    "role": "admin"
+  },
+  {
+    "email": "user85@pace.local",
+    "password": "password123",
+    "full_name": "User 85",
+    "role": "user"
+  },
+  {
+    "email": "user86@pace.local",
+    "password": "password123",
+    "full_name": "User 86",
+    "role": "logistics_company"
+  },
+  {
+    "email": "user87@pace.local",
+    "password": "password123",
+    "full_name": "User 87",
+    "role": "admin"
+  },
+  {
+    "email": "user88@pace.local",
+    "password": "password123",
+    "full_name": "User 88",
+    "role": "admin"
+  },
+  {
+    "email": "user89@pace.local",
+    "password": "password123",
+    "full_name": "User 89",
+    "role": "user"
+  },
+  {
+    "email": "user90@pace.local",
+    "password": "password123",
+    "full_name": "User 90",
+    "role": "user"
+  },
+  {
+    "email": "user91@pace.local",
+    "password": "password123",
+    "full_name": "User 91",
+    "role": "admin"
+  },
+  {
+    "email": "user92@pace.local",
+    "password": "password123",
+    "full_name": "User 92",
+    "role": "user"
+  },
+  {
+    "email": "user93@pace.local",
+    "password": "password123",
+    "full_name": "User 93",
+    "role": "admin"
+  },
+  {
+    "email": "user94@pace.local",
+    "password": "password123",
+    "full_name": "User 94",
+    "role": "user"
+  },
+  {
+    "email": "user95@pace.local",
+    "password": "password123",
+    "full_name": "User 95",
+    "role": "admin"
+  },
+  {
+    "email": "user96@pace.local",
+    "password": "password123",
+    "full_name": "User 96",
+    "role": "user"
+  },
+  {
+    "email": "user97@pace.local",
+    "password": "password123",
+    "full_name": "User 97",
+    "role": "user"
+  },
+  {
+    "email": "user98@pace.local",
+    "password": "password123",
+    "full_name": "User 98",
+    "role": "admin"
+  },
+  {
+    "email": "user99@pace.local",
+    "password": "password123",
+    "full_name": "User 99",
+    "role": "admin"
+  },
+  {
+    "email": "user100@pace.local",
+    "password": "password123",
+    "full_name": "User 100",
+    "role": "user"
+  }
+]
