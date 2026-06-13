@@ -22,7 +22,7 @@ export function Sidebar() {
   const pathname = usePathname();
 
   return (
-    <aside className="hidden w-72 flex-col border-r border-white/10 bg-pace-slate/80 px-5 py-6 backdrop-blur xl:flex">
+    <aside className="flex w-72 flex-col border-r border-white/10 bg-pace-slate/80 px-5 py-6 backdrop-blur xl:flex">
       <div className="mb-10 rounded-3xl border border-white/10 bg-white/5 p-5 shadow-glow">
         <p className="font-mono text-xs uppercase tracking-[0.35em] text-pace-teal">PACE</p>
         <h1 className="mt-3 text-2xl font-semibold text-white">Predictive AI Cargo Exchange</h1>

@@ -7,20 +7,30 @@ import { useAuth } from "@/context/auth-context";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import type { LoginPayload, RegisterPayload } from "@/types";
-
+import { useRouter } from "next/navigation";
 export function LoginForm() {
   const { login } = useAuth();
   const [form, setForm] = useState<LoginPayload>({ email: "", password: "" });
   const [message, setMessage] = useState<string | null>(null);
+  const router = useRouter();
 
   return (
     <form
       className="space-y-4"
       onSubmit={async (event) => {
-        event.preventDefault();
-        await login(form);
-        setMessage("Signed in successfully.");
-      }}
+  event.preventDefault();
+
+  try {
+    await login(form);
+
+    setMessage("Signed in successfully.");
+
+    router.push("/dashboard");
+  } catch (error) {
+    setMessage("Login failed.");
+    console.error(error);
+  }
+}}
     >
       <Input placeholder="Email" type="email" value={form.email} onChange={(event) => setForm({ ...form, email: event.target.value })} />
       <Input placeholder="Password" type="password" value={form.password} onChange={(event) => setForm({ ...form, password: event.target.value })} />
